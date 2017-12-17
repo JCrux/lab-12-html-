@@ -1,0 +1,39 @@
+p{
+	font-size: 12px;
+	text-decoration: line-through;
+}
+h1{
+	color: green;
+	background-color: gray;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+	border-width: 5px;
+	border-color: green;
+	
+	
+}
+h2{
+	font-family: sans-serif;
+	text-decoration: underline;
+	
+}
+
+#intro {
+	border: 1px solid black;
+
+}
+
+.Spotlight{
+	background-color: yellow;
+}
+
+p, h1{
+	color: darkgreen;
+}
+
+body{
+	background: white url(https://i.ytimg.com/vi/RSQu6s26dRs/maxresdefault.jpg) repeat top right
+}
